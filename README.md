@@ -1,2 +1,2 @@
 # sales-forecast
-a sales forecast model development
+A sales forecast model development
